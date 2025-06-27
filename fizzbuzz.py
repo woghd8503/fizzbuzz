@@ -1,5 +1,7 @@
-for j in range(1, 16+1):
-    if j % 3 ==  0:
+for i in range(1, 16+1):
+    if i % 3 ==  0:
         print('fizz')
     else:
         print(i)
+
+print("잘되는거 맞아?")
